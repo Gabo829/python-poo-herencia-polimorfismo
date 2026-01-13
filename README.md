@@ -19,3 +19,6 @@ El programa se organiza de acuerdo a la arquitectura trabajada en clase para gar
 
 # Conlusión
 La implementación de este proyecto permitió consolidar el uso de los pilares de la POO en un entorno modular. La aplicación de la **herencia** facilitó la reutilización de código, mientras que la **encapsulación** aseguró la integridad de los datos internos de las clases. Finalmente, el uso de **polimorfismo** demostró cómo una arquitectura bien diseñada permite manejar distintos tipos de objetos de manera uniforme, mejorando la escalabilidad del sistema.
+
+# Autor
+Proyecto elaborado por Gabo.
