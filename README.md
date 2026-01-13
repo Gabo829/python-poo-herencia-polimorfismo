@@ -12,7 +12,10 @@ El programa se organiza de acuerdo a la arquitectura trabajada en clase para gar
 
 <img width="531" height="252" alt="image" src="https://github.com/user-attachments/assets/3790fe62-f7a2-4b10-9755-bc2d6640306b" />
 
-Conceptos de POO Aplicados
-- Herencia: La clase Libro extiende la funcionalidad de Recurso, reutilizando código y añadiendo especialización (como el ISBN).
-- Encapsulación: Se restringió el acceso directo al atributo __estado. Para interactuar con él, se utilizan métodos públicos, asegurando que el flujo de datos sea controlado.
-- Polimorfismo: El método obtener_info() se comporta de manera distinta dependiendo de si el objeto es un recurso genérico o un libro, permitiendo flexibilidad en la salida de datos.
+# Conceptos de POO Aplicados
+- **Herencia:** La clase `Libro` extiende la funcionalidad de `Recurso`, reutilizando código y añadiendo especialización (como el ISBN).
+- **Encapsulación:** Se restringió el acceso directo al atributo `__estado`. Para interactuar con él, se utilizan métodos públicos, asegurando que el flujo de datos sea controlado.
+- **Polimorfismo:** El método `obtener_info()` se comporta de manera distinta dependiendo de si el objeto es un recurso genérico o un libro, permitiendo flexibilidad en la salida de datos.
+
+# Conlusión
+La implementación de este proyecto permitió consolidar el uso de los pilares de la POO en un entorno modular. La aplicación de la **herencia** facilitó la reutilización de código, mientras que la **encapsulación** aseguró la integridad de los datos internos de las clases. Finalmente, el uso de **polimorfismo** demostró cómo una arquitectura bien diseñada permite manejar distintos tipos de objetos de manera uniforme, mejorando la escalabilidad del sistema.
